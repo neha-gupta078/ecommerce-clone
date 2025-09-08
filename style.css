@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("logo.jpg");
+    background-image: url("MyShop_logo.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -36,8 +36,8 @@
 /** box 2 **/
 .add-first{
     color: #cccccc;
-    font size: 0.85rem;
-    margin: left 15px;
+    font-size: 0.85rem;
+    margin left: 15px;
 }
 
 .add-second{
